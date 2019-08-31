@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android17/Fade.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android17/Kick.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android17/Power.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android17/Power_Attack.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android17/Punch.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android17/Stand.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android17/Walk.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android18/Fade.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android18/Kick.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android18/Power.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android18/Power_Attack.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android18/Punch.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android18/Stand.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Android18/Walk.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Camila/Kick.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Camila/Punch.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Camila/Stand.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Camila/Walk.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Ralick/Kick.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Ralick/Power.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Ralick/Power_Attack.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Ralick/Punch.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Ralick/Stand.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Ralick/Walk.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Saiyan/Fade.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Saiyan/Kick.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Saiyan/Power.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Saiyan/Power_Attack.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Saiyan/Punch.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Saiyan/Stand.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Backups/Sprite Sheet Project/Sprite Sheet Project/Content/Saiyan/Walk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

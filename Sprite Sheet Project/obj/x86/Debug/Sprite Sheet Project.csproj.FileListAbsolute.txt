@@ -1,0 +1,178 @@
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_BoxingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Faded.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_PowerAttack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CopyComplete
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_KickingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_BoxingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Faded.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_KickingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_PowerAttack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CopyComplete
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\TEMP Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Kicking.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Punching.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Ralick_Kicking.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Ralick_PowerAttack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Ralick_Punching.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Ralick_Standing.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Ralick_Walking.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Ralick_Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Standing.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_Walking.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_BoxingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_KickingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CopyComplete
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Fade.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Fade.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Fade.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_BoxingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Saiyan_KickingFight.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Fade.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Saiyan\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Fade.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android18\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Ralick\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Camila\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Fade.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Kick.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Power.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Power_Attack.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Punch.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Stand.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Content\Android17\Walk.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\Sprite Sheet Project.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Sprite Sheet Project\Sprite Sheet Project\obj\x86\Debug\Sprite Sheet Project.csproj.CopyComplete
